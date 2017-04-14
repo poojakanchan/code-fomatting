@@ -1,0 +1,27 @@
+(481)   void com.android.internal.os.RuntimeInit.commonInit()   Enter  []
+(481)   String com.android.internal.os.RuntimeInit.getDefaultUserAgent()   Enter  []
+(481)   String com.android.internal.os.RuntimeInit.getDefaultUserAgent()   Exit
+(481)   String android.os.SystemProperties.get(String)   Enter  [ro.kernel.android.tracing]
+(481)   String android.os.SystemProperties.get(String)   Exit
+(481)   void com.android.internal.os.RuntimeInit.commonInit()   Exit
+(481)   void com.android.internal.os.RuntimeInit.invokeStaticMain(String, String[])   Enter  [android.app.ActivityThread,[Ljava.lang.String;@4056bd0]
+(481)   void com.android.internal.os.ZygoteInit.MethodAndArgsCaller.run()   Enter  []
+(481)   void android.app.ActivityThread.main(String[])   Enter [[Ljava.lang.String;@4056bd0]
+(481)   void com.android.internal.os.SamplingProfilerIntegration.start()   Enter  []
+(481)   void com.android.internal.os.SamplingProfilerIntegration.start()   Exit
+(481)   void android.os.Looper.prepareMainLooper()   Enter  []
+(481)   void android.os.Looper.prepare()   Enter  []
+(481)   void android.os.Looper.prepare()   Exit 
+(481)   Looper android.os.Looper.myLooper()   Enter  []
+(481)   Looper android.os.Looper.myLooper()   Exit
+(481)   String android.os.Looper.toString()   Enter  []
+(481)   String android.os.Looper.toString()   Exit
+(481)   void android.os.Looper.setMainLooper(Looper)   Enter  [Looper{40572360}]
+(481)   String android.os.Looper.toString()   Enter  []
+(481)   String android.os.Looper.toString()   Exit  
+(481)   void android.os.Looper.setMainLooper(Looper)   Exit
+(481)   Looper android.os.Looper.myLooper()   Enter  []
+(481)   Looper android.os.Looper.myLooper()   Exit  []
+(481)   void android.os.Looper.prepareMainLooper()   Exit
+(481)   Looper android.os.Looper.myLooper()   Enter  []
+(481)   Looper android.os.Looper.myLooper()   Exit  
